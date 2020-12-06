@@ -1,0 +1,2 @@
+# LocalBazar
+e-commerce project
